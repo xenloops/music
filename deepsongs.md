@@ -6,12 +6,13 @@ In no particular order. Each line shows song title, artist/performer, and album 
 * See the World, Gomez
 * Time in a Bottle, Jim Croche
 * Good Riddance, Green Day
+* Iowa, Dar Williams
 * Circle Game, Joni Mitchell
 * Big Yellow Taxi, Joni Mitchell
 * Closer to Fine, Indigo Girls
 * Get Out the Map, Indigo Girls
 * These Are Days, Natalie Merchant
-* Just a Ride, Jem
+* Just a Ride, Jem, Finally Woken
 * What a Wonderful World, Louis Armstrong
 * The Living Years, Mike + the Mechanics
 * Running with the Buffalo, Peter Meyer
